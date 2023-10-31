@@ -1,3 +1,7 @@
+#Add package
+Install node modules: npm i
+Than ng build
+
 # SocialMedia
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
